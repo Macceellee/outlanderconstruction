@@ -1,1 +1,182 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Outland Construction LLC</title>
+    <link rel="stylesheet" href="estilos.css">
+    <link rel="icon" type="image/png" href="pics/ea84ec_21f8f910e4fa1a2ef3778a6946c22e82.jpg">
+    
+</head>
+<body>
+        <div class="back">
+    <nav>
+  <a href="#welcome">Home</a>
+  <a href="#about-us">About Us</a>
+  <a href="#services">Services</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#locate-us">Locate Us</a>
+  <a href="#contact-us">Contact Us</a>
+</nav>
+    </div>
+        <div class="content-1">
+            <hr>
+            <h1 >Outland Construction LLC</h1>
+            <hr>
+            
+        </div>
+        <div class="content-2">
+            <div class="content-item-1">
+                <hr>
+                   <img src="pics/Logo.jpg" id="welcome">
+                    <hr>
+                        <h1 >WELCOME</h1>
+                         <hr>
+                         <p>Outland Construction is uniquely qualified to provide commercial construction, residential construction, remodeling and home repair services. Outland Construction is in good standing with Alaska Construction Commission (License #28842).</p>
+                         <ul>
+                             <li>Affordable Prices</li>
+                             <li>High Quality Materials</li>
+                             <li>Satisfaction Guaranteed</li>
+                         </ul>
+                    <img class="segundaimg" src="pics/slide.jpg">
+                    <hr>
+            </div>
+        </div>
+        <div class="content-3">
+            <div class="content-item-2">
+                 <hr>
+                  <img src="pics/Logo.jpg" id="about-us">
+                   <hr>
+                    <h1>ABOUT US</h1>
+                        <hr>
+                <a><img src="pics/Thad.jpg"></a>
+                <p>Thad R. Mantyla <br>
+                        Owner General Contractor</p><br>
+                        <p>"I am a Licensed General Contractor, Owner and Construction Manager of Outland Construction. I am a family man with long term, growth goals for this company. Outland Construction is a second generation company established in Alaska in 1982. Outland Construction is licensed to perform general contracting work in Alaska. Our primary focus has been residential construction with some commercial and bush work mixed in through the years. We pride ourselves with honesty and integrity for our work. For the last seven years we have worked with many condo associations and are very familiar with a multiple owner scenario. Although our main focus has recently been on general contracting and new construction projects we feel we can be a benefit to any project, mainly through our strict work ethics and stringent policies. The combination of outstanding leadership, experienced personnel and solid financial management has contributed to Outland Construction's success."</p>
+                <hr>
+                <h2>Our Mission:</h2>
+                <p>To provide superior construction allowing the client to meet its goals on each individual project. Successful management of the project means:</p>
+                <ul>
+                    <li>Completion on schedule.</li>
+                    <li>Cost-effective financial management.</li>
+                    <li>Delivery of high-quality project.</li>
+                    <li>Performance in a way that earns the respect of the project team.</li>
+                    <li>Excellence and Professionalism.</li>
+                    <li>Insured and Guaranteed.</li>
+                    <a><p><img src="pics/slide1.jpg"></p></a>
+                </ul>
+                <hr>
+            </div>
+        </div>
+        <div class="content-4">
+            <div class="content-item-4">
+                <hr>
+                    <img src="pics/Logo.jpg" id="services">
+                         <hr>
+                             <h1>SERVICES</h1>
+                         <hr><br><br>
+                        <h2>Our Services Include:</h2>
+                       <ul>
+                        <li>-General Contracting.</li>
+                        <li>-Residencial new construction.</li>
+                        <li>-Remote bush construction.</li>
+                        <li>-Framing.</li>
+                        <li>-Siding.</li>
+                        <li>-Trim.</li>
+                        <li>-Decks.</li>
+                        <li>-Roofing.</li>
+                        <li>-Concrete.</li>
+                        <li>-Costom Homes.</li>
+                        <li>-Pile Driving.</li>
+                        <li>-Drywall.</li>
+                        <li>-Painting.</li>
+                    </ul><br><br><br>
+                    <img src="pics/slideshow10.jpg"><br><hr><br><br>
+                    <h2>We Also Do:</h2>
+                    <p>Shelving & storage // Kitchens // Bar & shop fitting // Wood flooring // Garden sheds, summer houses and gazebos // Ceiling & roofing // Gates, fences and garage doors.</p>
+                <hr>
+            </div>
+        </div>
+        <div id="slideshow">
+            <div id="slideshow-item">
+                <hr>
+                   <img src="pics/Logo.jpg" id="gallery">
+                   <hr>
+                       <h1>GALLERY</h1>
+                   <hr><br><br>
+                       <h2>Selected Works:</h2><br><br>
+               
+               <div class="galeria">
+  <input type="radio" name="navegacion" id="_1" checked>
+  <input type="radio" name="navegacion" id="_2">
+  <input type="radio" name="navegacion" id="_3">
+  <input type="radio" name="navegacion" id="_4"> 
+  <input type="radio" name="navegacion" id="_5"> 
+  <img src="pics/1.jpg" width="100%" height="90%" alt="Galeria CSS 1" />
+  <img src="pics/2.jpg" width="100%" height="90%" alt="Galeria CSS 2"  />
+  <img src="pics/3.jpg" width="100%" height="90%" alt="Galeria CSS 3" />
+  <img src="pics/4.jpg" width="100%" height="90%" alt="Galeria CSS 4" />
+  <img src="pics/4.jpg" width="100%" height="90%" alt="Galeria CSS 5" />
+</div>
+    
+        
+                <hr>
+            </div>
+    </div>
+        <div class="content-5">
+            <div class="content-item-5">
+                <hr>
+                    <img src="pics/Logo.jpg"id="locate-us">
+                <hr>
+                    <h1>LOCATE US:</h1>
+                    <p>Ready to start your next project? Give us a call or shoot us an email. We do free consultations and are happy to help with your project of any size.</p>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1924.438956668646!2d-149.85979034858624!3d61.16182118225044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c897783aa86b4d%3A0xb5b108b9138d4ad6!2s6510+Homer+Dr%2C+Anchorage%2C+AK+99518%2C+EE.+UU.!5e0!3m2!1ses!2smx!4v1542881102915" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    <p>6510 Homer Dr. Anchorage, Ak. 99518</p>
+                <hr>
+            </div>
+        </div>
+        <div class="content-1" id="contact-us">
+            <hr>
+            <h1 id="contact-us">Outland Construction LLC</h1>
+            <div class="content-icon-all">
+                <hr>
+                    <h2 >Contact Us</h2>
+                <hr>
+                <div class="content-icon">
+                <a href="https://www.facebook.com/Outland-Construction-LLC-Thad-Mantyla-174325939287235/?fref=ts" target="_blank" title="Facebook"> 
+                <img src="pics/facebook.png" alt="Facebook">
+                    </a>
+                <h4>Follow Us on Facebook</h4>
+                </div>
+                
+                <div class="content-icon">
+                    <a href="mailto:thad@outlandconstruction.com"><img src="pics/correo.jpg"></a>
+                <h4>Send Us an Email</h4>
+                </div>  
+                
+                <!--falta link-->
+                <div class="content-icon">
+                <a href=""><img src="pics/googlemas.png"></a>
+                <h4>Follow Us on Google</h4>
+                </div>
+                
+                <!--falta link-->
+                <div class="content-icon">
+                    <a href=""><img src="pics/twitterojo.png"></a>
+                <h4>Follow Us on Twitter</h4>
+                </div>
+                
+                </div>
+        
+            <hr>
+            
+            <p class="parrafo1">(907) 351-8219</p>
+            <hr>
+        </div>
+            <script type="text/javascript">
+                document.oncontextmenu = function(){return false}
+                window.onload = function()
+                {document.onselectstart = function(){return false;} 
+                document.onmousedown = function(){return false;}}
+            </script>
+</body>
+</html>
